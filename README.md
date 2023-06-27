@@ -1,0 +1,2 @@
+# Edvancer_retail_store_prediction_project
+Classification_model_to_predict_store_should_be_open_or_close
